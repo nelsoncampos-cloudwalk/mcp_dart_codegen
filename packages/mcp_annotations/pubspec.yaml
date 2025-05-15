@@ -1,5 +1,5 @@
 name: mcp_annotations
-version: 0.1.0
+version: 0.1.1
 description: Annotations for generating MCP server boilerplate and tools.
 repository: https://github.com/nelsoncampos-cloudwalk/mcp_dart_codegen/tree/main
 homepage: https://github.com/nelsoncampos-cloudwalk/mcp_dart_codegen/tree/main

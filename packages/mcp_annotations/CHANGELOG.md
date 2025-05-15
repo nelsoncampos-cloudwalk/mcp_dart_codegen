@@ -1,3 +1,7 @@
+## 0.1.1
+- Update LICENSE
+- Update repository and homepage
+
 ## 0.1.0
 
 - Initial release of the MCP annotations package.
