@@ -8,9 +8,6 @@ This repository is a *mono-repo* that hosts:
 | ------- | ----------- |
 | [`packages/mcp_annotations`](packages/mcp_annotations/) | Compile-time annotations (e.g. `@MCPTool`, `@MCPServerApp`) used to describe MCP servers and tools. |
 | [`packages/mcp_codegen`](packages/mcp_codegen/) | A [`build_runner`](https://pub.dev/packages/build_runner) generator that converts the annotations above into:  
-• JSON tool descriptors  
-• Handler stubs  
-• Boot-strapped `MCPServer` subclasses. |
 
 An **example server** that demonstrates these packages in action can be found under [`examples/demo_server`](examples/demo_server/).
 
