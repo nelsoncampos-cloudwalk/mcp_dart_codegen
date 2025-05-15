@@ -1,7 +1,8 @@
 name: mcp_codegen
 version: 0.1.0
-description: >-
-  Source-gen builder that generates boilerplate MCP server and tool code.
+description: Source-gen builder that generates boilerplate MCP server and tool code.
+repository: https://github.com/nelsoncampos-cloudwalk/mcp_dart_codegen/tree/main
+homepage: https://github.com/nelsoncampos-cloudwalk/mcp_dart_codegen/tree/main
 
 environment:
   sdk: ^3.7.0
